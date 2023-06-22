@@ -23,7 +23,7 @@
         "title": "update available++",
         "body": "Version var available 🎉, download now and get latest features.++",
         "updateLink": "https://www.google.com",
-        "approved": false
+        "approved": true
     },
     "ads": {
         "adNetwork": "admob",
