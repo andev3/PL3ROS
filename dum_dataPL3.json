@@ -19,7 +19,7 @@
     ],
     "config": {
         "currentAppVersion": "3.0.1",
-        "forceUpdate": true,
+        "forceUpdate": false,
         "title": "update available++",
         "body": "Version var available 🎉, download now and get latest features.++",
         "updateLink": "https://www.google.com",
